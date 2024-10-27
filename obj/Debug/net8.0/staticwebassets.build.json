@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "oagN5AMyxhQXv+6+SXBHALzbHnPNyKJNKl8RAEjbVl4=",
+  "Source": "mongo-net-asp-csharp",
+  "BasePath": "_content/mongo-net-asp-csharp",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}
